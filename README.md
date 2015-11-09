@@ -2,9 +2,7 @@
 Read the best current stories provided by [Kinja platform](http://kinja.com) from your favourite blogs: Gawker, Gizmodo, Lifehacker, Jezebel, Deadspin, Jalopnik, Kotaku, iO9 and around 40 more, in a fast and beautiful app always available in your pocket.
 
 ## Screenshots
- ![Main](https://github.com/thomalexandre/Stories/blob/master/Screenshots/github/main.png?raw=true "")
- ![Article](https://github.com/thomalexandre/Stories/blob/master/Screenshots/github/article.png?raw=true "")
- ![BlogSelection](https://github.com/thomalexandre/Stories/blob/master/Screenshots/github/blogselection.png?raw=true "")
+ ![Stories](https://github.com/thomalexandre/Stories/blob/master/Screenshots/grouped.png?raw=true "")
 
 ## Demo
 [Demo on Appetize.io](https://appetize.io/app/8n66p0kfe6d1pke7u8mwr8n2q8?device=iphone5s&scale=75&orientation=portrait&osVersion=9.1)
