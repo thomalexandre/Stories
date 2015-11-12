@@ -20,9 +20,5 @@ Read the best current stories provided by [Kinja platform](http://kinja.com) fro
 - Stories supports iOS8 and iOS9.
 - Stories run on iPhone 4, 5, 6 and 6+, iPod touch and iPad.
 - Source code is available in Objective-C.
-- You can download the app from the [AppStore](https://itunes.apple.com/app/id1044848663)
+- Due to legal concerns, the app is not available on the AppStore anymore.
 
-## Copyright
-Copyright (c) 2015 Alexandre Thomas.
-
-App is using public API from [Kinja](http://kinja.com).
