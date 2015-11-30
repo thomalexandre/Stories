@@ -1,5 +1,6 @@
 ## What is Stories?
-Read the best current stories provided by [Kinja platform](http://kinja.com) from your favourite blogs: Gawker, Gizmodo, Lifehacker, Jezebel, Deadspin, Jalopnik, Kotaku, iO9 and around 40 more, in a fast and beautiful app always available in your pocket.
+Read the best current stories from your favourite topic on the internet, in a fast and beautiful app always available in your pocket.
+The posts relate to the following categories: Mechanic, Fashion, Life, Science Fiction, Sports, Tech, USA, Video Games.
 
 ## Screenshots
  ![Stories](https://github.com/thomalexandre/Stories/blob/master/Screenshots/grouped.png?raw=true "")
