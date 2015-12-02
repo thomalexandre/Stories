@@ -1,6 +1,6 @@
 ## What is Stories?
 Read the best current stories from your favourite topic on the internet, in a fast and beautiful app always available in your pocket.
-The posts relate to the following categories: Mechanic, Fashion, Life, Science Fiction, Sports, Tech, USA, Video Games.
+The stories relate to the following categories: mechanic, fashion, life, science fiction, sports, tech, USA, video games.
 
 ## Screenshots
  ![Stories](https://github.com/thomalexandre/Stories/blob/master/Screenshots/grouped.png?raw=true "")
@@ -21,5 +21,4 @@ The posts relate to the following categories: Mechanic, Fashion, Life, Science F
 - Stories supports iOS8 and iOS9.
 - Stories run on iPhone 4, 5, 6 and 6+, iPod touch and iPad.
 - Source code is available in Objective-C.
-- Due to legal concerns, the app is not available on the AppStore anymore.
 
